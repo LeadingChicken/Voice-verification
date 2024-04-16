@@ -1,0 +1,42 @@
+{
+    "ID1": {
+        "num_recordings": 7,
+        "recordings": [
+            "ID1_0.flac",
+            "ID1_1.flac",
+            "ID1_2.flac",
+            "ID1_3.flac",
+            "ID1_4.flac",
+            "ID1_5.flac",
+            "ID1_6.flac"
+        ]
+    },
+    "ID2": {
+        "num_recordings": 8,
+        "recordings": [
+            "ID2_0.flac",
+            "ID2_1.flac",
+            "ID2_2.flac",
+            "ID2_3.flac",
+            "ID2_4.flac",
+            "ID2_5.flac",
+            "ID2_6.flac",
+            "ID2_7.flac"
+        ]
+    },
+    "Thien": {
+        "num_recordings": 11,
+        "recordings": [
+            "Thien_0.wav",
+            "Thien_1.wav",
+            "Thien_2.wav",
+            "Thien_3.wav",
+            "Thien_4.wav",
+            "Thien_5.wav",
+            "Thien_6.wav",
+            "Thien_7.wav",
+            "Thien_8.wav",
+            "Thien_9.wav"
+        ]
+    }
+}
